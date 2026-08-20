@@ -1,0 +1,19 @@
+From: security@example.com
+To: kiran@example.com
+Subject: Urgent Account Verification
+Date: Tue, 11 Aug 2026 13:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Received-SPF: fail
+Authentication-Results: example.com; spf=fail; dkim=fail; dmarc=fail
+
+Your account requires immediate verification.
+
+Click here:
+https://secure-example.test/login
+
+Contact server:
+185.10.10.10
+
+SHA256:
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef

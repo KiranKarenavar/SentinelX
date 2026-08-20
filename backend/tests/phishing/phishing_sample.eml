@@ -1,0 +1,20 @@
+From: Security Team <security@example.com>
+To: victim@example.com
+Reply-To: attacker@evil-example.com
+Subject: URGENT: Verify your account immediately
+Date: Tue, 18 Aug 2026 10:00:00 +0530
+Message-ID: <test123@example.com>
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+Your account will be suspended.
+
+Please verify your password immediately:
+
+https://evil-example.com/login
+http://8.8.8.8/verify
+
+You must complete this verification urgently.
+
+Security Team

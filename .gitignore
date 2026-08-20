@@ -1,7 +1,41 @@
-.env
-_pycache_/
-*.pyc
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
 venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node.js
 node_modules/
+dist/
+
+# Python test/cache files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
 *.log
-*.sqlite
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Local data
+data/honeypot/*.log
