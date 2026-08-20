@@ -16,4 +16,3 @@
 | Phase 11 | SOC Dashboard | Complete |
 | Phase 12 | Incident Response and Reporting | Complete |
 | Phase 13 | Testing and Attack Simulations | Complete |
-| Phase 14 | GitHub, Documentation and Resume | In Progress |
