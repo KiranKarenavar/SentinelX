@@ -1,6 +1,6 @@
 # SentinelX
 
-## AI-Powered SOC, Threat Intelligence and Cyber Threat Detection Platform
+## AI-Powered SOC And Threat Intelligence Platform
 
 SentinelX is an integrated cybersecurity platform designed to centralize **threat intelligence, security monitoring, detection, investigation, threat hunting, and incident response**.
 
