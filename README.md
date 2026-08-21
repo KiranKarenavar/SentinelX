@@ -206,11 +206,9 @@ Before running SentinelX, install:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SentinelX.git
+git clone https://github.com/KiranKarenavar/SentinelX.git
 cd SentinelX
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Backend Setup
 
@@ -241,8 +239,6 @@ ABUSEIPDB_API_KEY=your_key
 VIRUSTOTAL_API_KEY=your_key
 THREATFOX_API_KEY=your_key
 ```
-
-> Never commit your `.env` file, API keys, passwords, or tokens.
 
 ### 4. Database Setup
 
@@ -609,24 +605,6 @@ Recommended screenshots include:
 
 Sensitive information is excluded from the repository using `.gitignore`.
 
-Never commit:
-
-- `.env`
-- API keys
-- Passwords
-- Access tokens
-- Database credentials
-- Private certificates
-- Virtual environments
-- `node_modules`
-- Python cache files
-- Local build files
-
-Before pushing changes:
-
-```bash
-git status
-```
 
 ## Project Status
 
@@ -646,7 +624,6 @@ git status
 | Phase 11 | SOC Dashboard | Complete |
 | Phase 12 | Incident Response and Reporting | Complete |
 | Phase 13 | Testing and Attack Simulations | Complete |
-| Phase 14 | Documentation and Deployment | In Progress |
 
 ## Future Improvements
 
@@ -690,9 +667,3 @@ SentinelX is developed for educational, research, and authorized cybersecurity t
 
 Do not use this project against systems, networks, applications, or accounts without proper authorization.
 
-## Author
-
-**Kiran Vasant Karenavar**
-
-Final Year BE Computer Engineering
-Cybersecurity | SOC | Threat Intelligence
